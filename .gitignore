@@ -1,0 +1,8 @@
+*.o
+
+# executable
+slock
+
+# host/user specific config
+config.h
+
